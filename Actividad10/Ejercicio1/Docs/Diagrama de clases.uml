@@ -347,8 +347,8 @@
 <XPD:REF name="Model">QQMtt+B3aEaB+UBqTuzt3AAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="TailRoleNameLabel" type="EdgeLabelView" guid="1lgN0Bj38kmnI4MZPYcOlwAA">
-<XPD:ATTR name="Alpha" type="real">4.00638103249613</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">85.5862138431184</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">4.06616688272342</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">84.5931439302264</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">-pilaHistorica:Stack&lt;Resolucion&gt;</XPD:ATTR>
 <XPD:REF name="Model">qO28pBn08EeYAiAfvGU+1gAA</XPD:REF>
@@ -431,8 +431,8 @@
 <XPD:REF name="Model">5Z+DLz28pECybH7mL6utKQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="TailRoleNameLabel" type="EdgeLabelView" guid="+3X5LYjwl0mkwvJCg6SgkwAA">
-<XPD:ATTR name="Alpha" type="real">-4.01547185597415</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">88.2043082847998</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">-4.10516414523226</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">89.1066776397819</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epTail</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">-colaDeAtencion:Queue&lt;Solicitud&gt;</XPD:ATTR>
 <XPD:REF name="Model">wTHOoa8nHUCD4LllRT15YgAA</XPD:REF>
