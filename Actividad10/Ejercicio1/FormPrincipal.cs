@@ -53,12 +53,12 @@ public partial class FormPrincipal : Form
 
     private void btnSeleccionar_Click(object sender, EventArgs e)
     {
-        Solicitud solicitud = lsbVerSolicitudesImportadas.SelectedItem as Solicitud;
+        Solicitud solicitudSeleccionada = lsbVerSolicitudesImportadas.SelectedItem as Solicitud;
 
         //2
-        if (solicitud != null)
+        if (solicitudSeleccionada != null)
         {
-            centroAtencion.Atender(solicitud);
+            centroAtencion.Atender(solicitudSeleccionada);
 
             //4
             VerSolicitudesAAtender();
